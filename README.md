@@ -20,10 +20,12 @@ Follow these steps to get the project up and running on your local machine.
 
 ### 🛠️ Installation
 
-1. **Clone the repository:**
+1. **Clone the repository and move inside:**
 
     ```bash
     git clone https://github.com/henocn/compressor.git
+    ```
+    ```bash
     cd compressor
     ```
 
