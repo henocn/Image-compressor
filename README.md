@@ -1,4 +1,4 @@
-# Image Compression App
+# REACT Image Compression App
 
 This is a simple image compression app built using React and Vite. It allows users to upload an image and compress it to reduce its file size.
 ## ✨ Features
